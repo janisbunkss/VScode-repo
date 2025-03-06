@@ -1,0 +1,2 @@
+# VScode-repo
+VScode apgūšanai
