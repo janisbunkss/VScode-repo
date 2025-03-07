@@ -1,3 +1,3 @@
 # repo VScode apgūšanai
 VScode apgūšanai
-mans pirmais ar vscode izveidotais repo
+Mans pirmais ar vscode izveidotais repo
